@@ -1,0 +1,8 @@
+{
+ "argv": ["python", "-m",
+          "kaykernel", "-f",
+          "{connection_file}"],
+ "display_name": "kaykernel",
+ "name": "kaykernel",
+ "language": "k"
+}
